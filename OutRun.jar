@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<arguments></arguments>
+<embeddedJar>false</embeddedJar>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<mainClassName></mainClassName>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion></minimumVersion>
+<skeletonName><![CDATA[
+<none>]]>
+</skeletonName>
+</jsmoothproject>
